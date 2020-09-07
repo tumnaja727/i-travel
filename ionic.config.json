@@ -1,0 +1,7 @@
+{
+  "name": "i-travel",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
